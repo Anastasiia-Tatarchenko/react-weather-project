@@ -18,7 +18,7 @@ export default function App() {
           </a>{" "}
           and is{" "}
           <a
-            href="https://github.com/Anastasiia-deign/responsive-week-5"
+            href="https://luminous-zuccutto-8a4069.netlify.app"
             target="_blank"
             rel="noreferrer"
           >
